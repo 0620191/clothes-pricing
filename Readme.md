@@ -27,4 +27,8 @@ Categories:
 
 The results in a basic csv table is in the outputs folder:
 
- ![Image of results]( https://github.com/0620191/clothes-pricing/blob/master/output/formatted_table.jpeg?raw=true)
+ ![Image of results](https://github.com/0620191/clothes-pricing/blob/master/output/formatted_table.jpeg?raw=true)
+
+In bar chart form:
+
+ ![Image of results](https://github.com/0620191/clothes-pricing/blob/master/output/bar_chart.jpeg?raw=true)
