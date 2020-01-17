@@ -32,6 +32,7 @@ def main():
             "Median Price (USD)",
             "Total Number",
             "Median Price (USD)",
+            ""
         ]
         file_writer.writerow(names)
         file_writer.writerow(names2)
